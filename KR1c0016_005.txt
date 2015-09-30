@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 慈湖詩傳
-#+DATE: 2015-09-23 09:36:36
-#+PROPERTY: JUAN 5
+#+DATE: 2015-08-24 22:04:45.773215
+#+PROPERTY: ID KR1c0016
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五
 <pb:KR1c0016_WYG_005-1a>¶
 欽定四庫全書¶
 　慈湖詩傳卷五　　　　　　宋　楊簡　著¶
@@ -377,4 +379,3 @@
 　齊桓使公子無虧戍漕之時或城楚邱遺衛車馬器¶
 　服之時齊人所作之詩衛人得之或衛人歌之故屬¶
 　之衛耶又安知非士大夫報施之詩耶¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 慈湖詩傳
-#+DATE: 2015-09-23 09:36:36
-#+PROPERTY: JUAN 3
+#+DATE: 2015-08-24 22:04:45.741398
+#+PROPERTY: ID KR1c0016
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三
 <pb:KR1c0016_WYG_003-1a>¶
 欽定四庫全書¶
 　慈湖詩傳卷三　　　　　　宋　楊簡　撰¶
@@ -559,4 +561,3 @@
 　之夀知之以告伋使去之伋曰君命也不可以逃夀¶
 　竊其節而先賊殺之伋曰我之求也彼何罪又殺之¶
 　毛詩序曰二子乗舟思伋夀也言語辭也¶
-

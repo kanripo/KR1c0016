@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 慈湖詩傳
-#+DATE: 2015-09-23 09:36:36
-#+PROPERTY: JUAN 4
+#+DATE: 2015-08-24 22:04:45.759693
+#+PROPERTY: ID KR1c0016
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四
 <pb:KR1c0016_WYG_004-1a>¶
 欽定四庫全書¶
 　慈湖詩傳卷四　　　　　　宋　楊簡　撰¶
@@ -365,4 +367,3 @@
 <pb:KR1c0016_WYG_004-21a>¶
 　其兄又義不得故賦是詩也毛傳曰載辭也草行曰¶
 　跋水行曰渉¶
-

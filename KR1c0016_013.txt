@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 慈湖詩傳
-#+DATE: 2015-09-23 09:36:36
-#+PROPERTY: JUAN 13
+#+DATE: 2015-08-24 22:04:45.963443
+#+PROPERTY: ID KR1c0016
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十三
 <pb:KR1c0016_WYG_013-1a>¶
 欽定四庫全書¶
 　慈湖詩傳卷十三　　　　　宋　楊簡　撰¶
@@ -674,4 +676,3 @@
 　王也在位貪殘下國構禍怨亂並興焉宏此序雜然¶
 　非情徒見言南國故曰下國構禍見言殘賊故曰貪¶
 　殘其實辭㫖不然¶
-

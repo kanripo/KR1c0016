@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 慈湖詩傳
-#+DATE: 2015-09-23 09:36:36
-#+PROPERTY: JUAN 19
+#+DATE: 2015-08-24 22:04:46.085766
+#+PROPERTY: ID KR1c0016
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十九
 <pb:KR1c0016_WYG_019-1a>¶
 欽定四庫全書¶
 　慈湖詩傳卷十九　　　　　宋　楊簡　撰¶
@@ -349,4 +351,3 @@
 　也路寝通接外事君雖居宫中貴乎通逹而無壅蔽¶
 　也衛宏作序曰閟宫頌僖公能復周之宇也不盡詩¶
 　㫖¶
-

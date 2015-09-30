@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 慈湖詩傳
-#+DATE: 2015-09-23 09:36:36
-#+PROPERTY: JUAN 17
+#+DATE: 2015-08-24 22:04:46.045038
+#+PROPERTY: ID KR1c0016
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十七
 <pb:KR1c0016_WYG_017-1a>¶
 欽定四庫全書¶
 　慈湖詩傳卷十七　　　　　宋　楊簡　撰¶
@@ -463,4 +465,3 @@
 　　(按此篇永樂大典缺卷又按自泂酌至召旻凡十五萹大/典缺卷惟烝民召旻二萹餘萹俱存無楊氏解或是大典)¶
 <pb:KR1c0016_WYG_017-26b>¶
 　　(編纂脫誤不應連萹遺漏/恐是楊氏原夲有缺卷也)¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 慈湖詩傳
-#+DATE: 2015-09-23 09:36:36
-#+PROPERTY: JUAN 9
+#+DATE: 2015-08-24 22:04:45.857184
+#+PROPERTY: ID KR1c0016
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷九
 <pb:KR1c0016_WYG_009-1a>¶
 欽定四庫全書¶
 　慈湖詩傳卷九　　　　　　宋　楊簡　撰¶
@@ -580,4 +582,3 @@
 　則車成政教衰則民僻故以興上下焉(按朱曰以下/原本缺今補)¶
 <pb:KR1c0016_WYG_009-33a>¶
 　(入/)¶
-
